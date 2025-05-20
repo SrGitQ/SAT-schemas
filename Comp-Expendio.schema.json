@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft-07/schema",
-    "$id": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json",
+    "$id": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json",
     "$version": "0.3.0",
     "$comment": "El archivo no tiene indentación uniforme por ser breve",
     "type": "object",

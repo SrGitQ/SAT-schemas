@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft-07/schema",
-    "$id": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Diario.schema.json",
+    "$id": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Diario.schema.json",
     "$version": "0.3.0",
     "type": "object",
     "description": "Es el elemento madre del archivo JSON.",
@@ -529,28 +529,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -684,28 +684,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -908,28 +908,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -1042,28 +1042,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -1243,28 +1243,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -1372,28 +1372,28 @@
                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                         "anyOf": [
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                             },
                                                             {
-                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                             }
                                                         ]
                                                     }
@@ -1584,28 +1584,28 @@
                                                                         "description": "Este elemento debe contener el complemento correspondiente a la actividad del obligado.",
                                                                         "anyOf": [
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Almacenamiento.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Almacenamiento.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-CDLR.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-CDLR.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Distribucion.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Distribucion.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Extraccion.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Extraccion.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Expendio.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Expendio.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Refinacion.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Refinacion.schema.json"
                                                                             },
                                                                             {
-                                                                                "$ref": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Transporte.schema.json"
+                                                                                "$ref": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Transporte.schema.json"
                                                                             }
                                                                         ]
                                                                     }

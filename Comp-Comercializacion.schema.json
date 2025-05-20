@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft-07/schema",
-    "$id": "https://repositorio.cloudb.sat.gob.mx/Covol/json/Comp-Comercializacion.schema.json",
+    "$id": "https://raw.githubusercontent.com/SrGitQ/SAT-schemas/refs/heads/main/Comp-Comercializacion.schema.json",
     "$version": "0.3.0",
     "type": "object",
     "description": "Es el elemento madre del archivo JSON.",
